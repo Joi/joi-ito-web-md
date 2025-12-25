@@ -1,0 +1,30 @@
+---
+title: "My draft essay about the revolution in Japan"
+date: 2003-02-05T00:00:00
+permalink: https://joi.ito.com/weblog/2003/02/05/my-draft-essay.html
+language: en
+categories: []
+author: Joichi Ito
+source_path: /weblog/2003/02/05/my-draft-essay.html
+extracted: 2025-12-25
+---
+
+I've been asked by a variety of publications to write about my thoughts about Japan. I would love comments of my first draft.
+
+--  
+*version 0.3*  
+People call the last 10 years "Japan's lost decade." There is debate after debate about the cause of the Japanese economic downturn and what should be done about it. Nobuyuki Idei, Sony's Chairman, calls it Japan's middle age crisis. After the war, Japan was young and low-cost. Targets were set and everyone worked very hard to build Japan into the world's second largest economy. Now Japan is expensive and aging. It has to change from "young and single-minded" to "old and rational".
+
+In post-war Japan the targets were clear. The ruling political party promised to double everyone's income. Japan could compete in manufacturing because of its able and low-cost labor force. As the large automobile and consumer electronics manufacturers competed globally and earned money for Japan through exports, the bureaucracy distributed the wealth evenly in Japan and protected the domestic industries from foreign as well as domestic competition. The central government's mission to double the income of all Japanese citizens meant that it was necessary to channel the funds from Tokyo to the rural districts of Japan. As the costs in Japan increased, these funds were used to subsidize agriculture as well as fund public works spending to feed the citizen for whom farming was no longer a viable option. This flow of funds created the basis for the current political structure where rural Japan relies on the central government for funds and has a much higher representation in the Diet due to the weighting of voting system.
+
+While Japan was growing, it could afford to fund the ever-growing political machine. It could also afford not to change. Aging Japan is now faced with an increasingly competitive Asian manufacturing sector and a change in direction and a reallocation of resources focusing more on services is required. Japan is stuck with a system pointed in the wrong direction without the ability to change the direction. The domestic services sector is inefficient and unable to compete globally since it has been protected by the bureaucracy and has never had to compete with anyone. The markets are dysfunctional and unable to reallocate resources. The political system is unable to lead the nation.
+
+Professor Lawrence Lessig points out that in a true democracy, there are multiple points of authority, the ability to criticize power without fear of retribution, critical debate and a competition of ideas. This is rather inefficient when there is a consensus on the direction of the country, but democracy is essential when a nation needs to change. Post-war Japan consolidated power in the ruling party. People were educated to be obedient. Harmony was maintained by co-opting or disabling people or organizations that could threaten the system. Diversity in the media, a strong judiciary, diversity in education and political diversity were stifled for the purpose of maintaining harmony. This harmony that once protected the happiness of the citizens of Japan is now the primary barrier to change.
+
+At one time Japan was viewed as a competitive threat to the United States. "Revisionists" in the United States tried to force policy changes in Japan. Many Japanese have very bad memories from this period. In addition, Japanese generally do not enjoy discussing domestic issues with the outside world, feeling that the issues are either too complicated for non-Japanese to understand or fearing external pressure on internal issues. Japan is no longer a competitive threat to the world. Japan's inability to recover from the economic crisis is a threat to the global economy. Japan needs build a true democracy to execute the reallocation of resources required for a long-term recovery. Japan would benefit greatly from exposing the domestic core problems to the Japanese public as well as the rest of the world. Japan's core problems are its dysfunctional democracy and the lack of diversity. The system is self-perpetuating and is extremely resistant to change. It hides behind the powerful and complex bureaucracy and the monolithic media that does not represent a diversity of opinions.
+
+Because the system is no longer able to change itself, a revolution is required. Japan must install a modern democracy and empower the people to participate. Revolutions to install democracies do not occur through negotiation with bureaucrats or academic debate. Revolutions involve people becoming upset and forcing change. Revolutions in the 18th century involved bloody wars and uprisings. 21st century revolutions will involve a public debate, which changes the ethics of the people. Japan has a constitution and almost all of the laws required to be a functioning democracy. What it lacks is the attention of the people and the ethics to execute on the rule of law.
+
+The Japanese people are also beginning to show their unhappiness. Governor Tanaka of Nagano, an independent promising to shut down public works and crack down on corruption, was voted into office by people who were upset by the corruption and were willing to suffer short term pain in order to fight the corruption.
+
+The combination of increasing public debate on the Internet and a global dialog will help the Japanese people become aware of the domestic problems as well as the context and responsibility of Japan globally. A new sense of global responsibility to achieve a higher ethical standard will help the Japanese people create a modern democracy capable of solving the domestic problems and allowing Japan to participate in the global geo-political arena as a true global entity. The revolution in Japan will be a ethical revolution about the people become aware that they are actually in charge.

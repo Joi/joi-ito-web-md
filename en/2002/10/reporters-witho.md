@@ -1,0 +1,19 @@
+---
+title: "Reporters Without Borders is publishing the first worldwide press freedom index"
+date: 2002-10-25T00:00:00
+permalink: https://joi.ito.com/weblog/2002/10/25/reporters-witho.html
+language: en
+categories: []
+author: Joichi Ito
+source_path: /weblog/2002/10/25/reporters-witho.html
+extracted: 2025-12-25
+---
+
+I can't believe Japan is #29. I think it should be lower... but I guess they don't kill reporters in Japan... they just co-opt them. I guess it depends on what you call "press freedom"...
+> Reporters Without Borders
+>
+> <Reporters Without Borders is publishing the first worldwide press freedom index>
+>
+> |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Reporters Without Borders is publishing for the first time a worldwide index of countries according to their respect for press freedom. It also shows that such freedom is under threat everywhere, with the 20 bottom-ranked countries drawn from Asia, Africa, Latin America and Europe. The situation in especially bad in Asia, which contains the four worst offenders - North Korea, China, Burma, Turkmenistan and Bhutan. The top end of the list shows that rich countries have no monopoly of press freedom. Costa and Benin are examples of how growth of a free press does not just depend on a country's material prosperity. The index was drawn up by asking journalists, researchers and legal experts to answer 50 questions about the whole range of press freedom violations (such as murders or arrests of journalists, censorship, pressure, state monopolies in various fields, punishment of press law offences and regulation of the media). The final list includes 139 countries. The others were not included in the absence of reliable information. | |  |  |  | | --- | --- | --- | | Rank | Country | Note | | 1 | Finland | 0,50 | | - | Iceland | 0,50 | | - | Norway | 0,50 | | - | Netherlands | 0,50 | | 5 | Canada | 0,75 | | 6 | Ireland | 1,00 | | 7 | Germany | 1,50 | | - | Portugal | 1,50 | | - | Sweden | 1,50 | | 10 | Denmark | 3,00 | | 11 | France | 3,25 | | 12 | Australia | 3,50 | | - | Belgium | 3,50 | | 14 | Slovenia | 4,00 | | 15 | Costa Rica | 4,25 | | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | Rank | Country | Note || - | Switzerland | 4,25 | | 17 | United States | 4,75 | | 18 | Hong Kong | 4,83 | | 19 | Greece | 5,00 | | 20 | Ecuador | 5,50 | | 21 | Benin | 6,00 | | - | United Kingdom | 6,00 | | - | Uruguay | 6,00 | | 24 | Chile | 6,50 | | - | Hungary | 6,50 | | 26 | South Africa | 7,50 | | - | Austria | 7,50 | | - | Japan | 7,50 | | 29 | Spain | 7,75 | | - | Poland | 7,75 | |

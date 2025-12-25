@@ -1,0 +1,40 @@
+---
+title: "Society in the Loop Artificial Intelligence"
+date: 2016-06-23T00:00:00
+permalink: https://joi.ito.com/weblog/2016/06/23/society-in-the-.html
+language: en
+categories: []
+author: Joichi Ito
+source_path: /weblog/2016/06/23/society-in-the-.html
+extracted: 2025-12-25
+---
+
+[![Black and White Gavel in Courtroom - Law Books](https://c5.staticflickr.com/8/7646/26682751244_5c54498c3a.jpg)](https://www.flickr.com/photos/141290938@N03/26682751244/ "Black and White Gavel in Courtroom - Law Books")  
+[*Photo by wp paarz via Flickr - CC BY-SA*](https://www.flickr.com/photos/141290938@N03/26682751244/)
+
+Iyad Rahwan was the first person I heard use the term society-in-the-loop machine learning. He was describing his [work which was just published in *Science*](http://science.sciencemag.org/content/352/6293/1573), on polling the public through an online test to find out how they felt about various decisions people would want a self-driving car to make - a modern version of what philosophers call "[The Trolley Problem](https://en.wikipedia.org/wiki/Trolley_problem)." The idea was that by understanding the priorities and values of the public, we could train machines to behave in ways that the society would consider ethical. We might also make a system to allow people to interact with the Artificial Intelligence (AI) and test the ethics by asking questions or watching it behave.
+
+Society-in-the-loop is a scaled up version of human-in-the-loop machine learning - something that Karthik Dinakar at the Media Lab has been working on and is emerging as an important part of AI research.
+
+Typically, machines are "trained" by AI engineers using huge amounts of data. The engineers tweak what data is used, how it's weighted, the type of learning algorithm used and a variety of parameters to try to create a model that is accurate and efficient and making the right decisions and providing accurate insights. One of the problems is that because AI, or more specifically, machine learning is still very difficult to do, the people who are training the machines are usually not domain experts. The training is done by machine learning experts and the completed model after the machine is trained is often tested by experts. A significant problem is that any biases or errors in the data will create models that reflect those biases and errors. An example of this would be data from regions that allow stop and frisk - obviously targeted communities will appear to have more crime.
+
+Human-in-the-loop machine learning is work that is trying to create systems to either allow domain experts to do the training or at least be involved in the training by creating machines that learn through interactions with experts. At the heart of human-in-the-loop computation is the idea of building models not just from data, but also from the human perspective of the data. Karthik calls this process 'lensing', of extracting the human perspective or lens of a domain expert and fit it to algorithms that learn from both the data and the extracted lens, all during training time. We believe this has implications for making tools for probabilistic programming and for the democratization of machine learning.
+
+At a recent meeting with philosophers, clergy and AI and technology experts, we discussed the possibility of machines taking over the job of judges. We have evidence that machines can make very accurate assessments of things that involve data and it's quite reasonable to assume that decisions that judges make such as bail amounts or parole could be done much more accurately by machines than by humans. In addition, there is research that shows expert humans are not very good set setting bail or granting parole appropriately. [Whether you get a hearing by the parole board before or after their lunch has a significant effect on the outcome, for instance](http://www.economist.com/node/18557594 "Black and White Gavel in Courtroom - Law Books"). (There has been some critiques of the study cited in this article, and the authors of the paper of [responded to them](http://www.pnas.org/content/108/42/E834.full).)
+
+In the discussion, some of us proposed the idea of replacing judges for certain kinds of decisions, bail and parole as examples, with machines. The philosopher and several clergy explained that while it might feel right from a utilitarian perspective, that for society, it was important that the judges were human - it was even more important than getting the "correct" answer. Putting aside the argument about whether we should be solving for utility or not, having the buy-in of the public would be important for the acceptance of any machine learning system and it would be essential to address this perspective.
+
+There are two ways that we could address this concern. One way would be to put a "human in the loop" and use machines to assist or extend the capacity of the human judges. It is possible that this would work. On the other hand, experiences in several other fields such as medicine or flying airplanes have shown evidence that humans may overrule machines with the wrong decision enough that it would make sense to prevent humans from overruling machines in some cases. It's also possible that a human would become complacent or conditioned to trust the results and just let the machine run the system.
+
+The second way would be for the machine to be trained by the public - society in the loop - in a way that the people felt that that the machine reliability represented fairly their, mostly likely, diverse set of values. This isn't unprecedented - in many ways, the ideal government would be one where the people felt sufficiently informed and engaged that they would allow the government to exercise power and believe that it represented them and that they were also ultimately responsible for the actions of the government. Maybe there is way to design a machine that could garner the support and the proxy of the public by being able to be trained by the public and being transparent enough that the public could trust it. Governments deal with competing and conflicting interests as will machines. There are obvious complex obstacles including the fact that unlike traditional software, where the code is like a series of rules, a machine learning model is more like a brain - it's impossible to look at the bits and understand exactly what it does or would do. There would need to be a way for the public to test and audit the values and behavior of the machines.
+
+If we were able to figure out how to take the input from and then gain the buy-in of the public as the ultimate creator and controller of this machine, it might solve the other side of this judicial problem - the case of a machine made by humans that commits a crime. If, for instance, the public felt that they had sufficient input into and control over the behavior of a self-driving car, could the public also feel that the public, or the government representing the public, was responsible for the behavior and the potential damage caused by a self-driving car, and help us get around the product liability problem that any company developing self-driving cars will face?
+
+How machines will take input from and be audited and controlled by the public, may be one of the most important areas that need to be developed in order to deploy artificial intelligence in decision making that might save lives and advance justice. This will most likely require making the tools of machine learning available to everyone, have a very open and inclusive dialog and redistribute the power that will come from advances in artificial intelligence, not just figure out ways to train it to appear ethical.
+
+###### Credits
+
+- Iyad Rahwan - The phrase “society in the loop” and many ideas.
+- Karthik Dinakar - Teaching me about “human in the loop” machine learning and being my AI tutor and many ideas.
+- Andrew McAfee - Citation and thinking on parole boards.
+- Natalie Saltiel - Editing.

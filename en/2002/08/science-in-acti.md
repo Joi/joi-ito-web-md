@@ -1,0 +1,29 @@
+---
+title: "Science in Action - Bruno Latour"
+date: 2002-08-31T00:00:00
+permalink: https://joi.ito.com/weblog/2002/08/31/science-in-acti.html
+language: en
+categories: []
+author: Joichi Ito
+source_path: /weblog/2002/08/31/science-in-acti.html
+extracted: 2025-12-25
+---
+
+![siacover.jpg](http://joi.ito.com/archives/images/siacover.jpg)  
+Finally finished reading this book. [Mimi](http://www.itofisher.com/PEOPLE/mito/) recommended it to me when I was trying to write my paper for [Ars Electronica](http://www.aec.at/festival2002/). Now I can't remember the context of her recommendation. Anyway...
+
+A dense book, but a great book.
+
+It approaches the process of the progress of science and the development of "facts" from the human and social perspective. Latour starts out the book by chronicling the discovery of DNA and the development of the Eclipse MV/8000 computer. He shows how "facts" are black boxes that become fact through a process of competition that involves building networks of references until people start to refer to your theory as a fact and use it to build their facts. In fact, black boxes can be re-opened, but it becomes increasing difficult and costly to do this. I felt this very much when working at [ECD](http://www.ovonic.com/). We worked in the area of disordered materials. Most devices are/were made of solid state crystalline materials. It is very difficult to get people think about devices in other ways. In this way, ECD discovered huge bodies of amazing materials with amazing properties, but convincing the world of the reality of this alternative universe took decades and the resistance was phenomenal. (It took Stan Ovshinsky, an amazing leader with the combination of a scientific mind and the will of a political activist to convince the world.)
+
+Continue reading [Science in Action - Bruno Latour](https://joi.ito.com/weblog/2002/08/31/science-in-acti.html#more).
+
+Latour writes about how many scientists believe that "Nature" can tell us if the facts are true. He explores laboratories and their methods and shows us that "Nature" doesn't really "tell us" anything. Nature proves something only after something becomes a fact. Laboratories are design to prove or support facts and the design of the experiment and the interpretation of the data are ambiguous and always disputable. It costs a great deal of money to open a "black box" and to create a laboratory to create or debunk scientific facts. The more "scientific" one gets, the more ambiguous the facts become and the higher the costs become. Because of the time and the costs involved, this questioning of fact and creation of fact becomes an enterprise that require a great deal of funding and thus a great deal of political and non-scientific activity.
+
+He makes an interesting point about scientific papers which I will quote :
+> There is something still worse, however, than being either criticized or dismantled by careless readers: it is being *ignored*. Since the status of a claim depends on later users' insertions, what if there are *no* later users whatsoever? This is the point that people who never come close to the fabrication of science have the greatest difficulty in grasping. They imagine that all scientific articles are equal and arrayed in lines like soldiers, to be carefully inspected one by one. However, most papers are never read at all. No matter what a paper did to the former literature, if no one else does anything with it, then it is as if it never existed at all. You may have written a paper that settles a fierce controversy once and for all, but if readers ignore it, it cannot be turned into a fact; it simply *cannot*.
+
+You may protest against this injustice; you may treasure the certitude of being right in your inner heart; but it will never go further than your inner heart; you will never go further in certitude without the help of others. Fact construction is so much a collective process that an isolated person builds only dreams, claims and feelings, not facts. As we will see later in Chapter 3, one of the main problems to solve is to interest someone enough to read at all; compared to this problem, that of being believed is, so to speak, a minor task.  
+So! This ties into our discussion of blogs. (I get to talk about blogs again.) Remember [that article by the Brazilian who was abused by INS in LAX](http://joi.ito.com/archives/images/000320.html#000320)? It was posted/blogged on the Net and [David Farber wrote about it on his mailing list](http://www.interesting-people.org/archives/interesting-people/). Someone wrote that they had a brother that was in the same Rotary Club as the victim. Then, Brock Meeks called INS and confirmed the incident. This "theory" quickly became fact or very close to fact. People prodded and probed many of the weaknesses in the original article and conducted experiments. But... I think one of the most important things was that the current global political climate made the original claim very relevant. People read it and blogged it. Now we know for a "fact" that INS has cells in LAX that they throw people into for not having the right "papers."
+
+Omi-san, a friend who left NTT recently is working on a database for academic papers. I am going to see her again soon to show her blogs and how blogs can create automatic links such as the [trackback feature that Movable Type](http://www.movabletype.org/trackback/) has. I think that blogs will have a huge impact on journalism and news, but after reading Science in Action, I realize that blogs or something similar to blogs could have a HUGE impact on Science. Science is obviously more rigid and structured, but the ability to link quickly and amass support for your claim or idea should be great. The blog architecture is probably much more suitable for many types of exchange than the current model of professional journals.

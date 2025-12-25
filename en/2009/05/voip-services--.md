@@ -1,0 +1,26 @@
+---
+title: "Voice over IP (VoIP) services - my setup"
+date: 2009-05-05T00:00:00
+permalink: https://joi.ito.com/weblog/2009/05/05/voip-services--.html
+language: en
+categories: []
+author: Joichi Ito
+source_path: /weblog/2009/05/05/voip-services--.html
+extracted: 2025-12-25
+---
+
+I spend a lot of time on conference calls and am constantly traveling internationally. I've been messing around with various configurations for my personal phone setup. I received requests on Twitter to share the details of setup and why I chose it, and I thought I'd solicit input on improvements as well.
+
+At one time, I was running an [Asterisk](http://http://en.wikipedia.org/wiki/Asterisk_%28PBX%29) server at home, on my laptop and at the office and had them connected together. The box at home was connected to my home phone and the office box was connected to the office phone numbers. Asterisk is an open source [PBX](http://en.wikipedia.org/wiki/Private_branch_exchange) system that allows you to connect to all kinds of devices that use [SIP](http://en.wikipedia.org/wiki/Sip) and [IAX](http://en.wikipedia.org/wiki/Iax) as well as service providers that allow you to purchase dial in and dial out services into various countries. I had dial-in and dial-out accounts with a termination service provider, [VoicePulse](http://www.voicepulse.com/). Also, because it is a PBX, Asterisk itself can do voicemail and conference calls. On Asterisk, I used [Zoiper](http://www.zoiper.com/) as my client software because it let me used IAX, the Asterisk protocol that I like better than SIP.
+
+Asterisk was super flexible and great in many ways. As I tried to simplify the maintenance, cost and total number of machines that I had, I found that the overhead of running my own Asterisk server and the cost of getting local phone coverage in all of the countries where I need to connect to was too much. I think that if I had a few more people and a physical office in a few more countries, I'd switch back to an Asterisk solution for everything.
+
+After I shut down my Asterisk server, I tried using [Skype](http://skype.com/) and SkypeOut to dial into conference call services like [FreeConference.com](http://www.freeconference.com/). I found Skype to be reliable sometimes and SkypeOut to be reliable less. It seems to me that SkypeOut has dropped in reliability since I was using it when it first came out, but it might just be the countries I was trying to use it from. What was particularly frustrating was that the [DTMF](http://en.wikipedia.org/wiki/DTMF) didn't make it through most of the time and I couldn't even get into the conference calls because it didn't recognize the code I was punching into Skype/SkypeOut. Also, as I have begun to communicate with people in countries that have sketchier Internet access and are spread around a lot more, I find that Skype conference calling isn't reliable enough. Since many of the calls involve a ton of coordination to set up and are scheduled for only a short time, reliability is super-important and I need it at approximately 100% for my critical calls.
+
+There are a number of services that provide SIP access to [PSTN](http://en.wikipedia.org/wiki/Public_switched_telephone_network). In the past I have used [Vonage](http://www.vonage.com/) and [VoicePulse](http://www.voicepulse.com/) for dial-out to the US from my Asterisk box, but someone recommended [BroadVoice which has a flat rate 35 country plan](http://www.broadvoice.com/rateplans_unlimited_world+.html) so I signed up with them to try dialing directly instead of via Asterisk. I'm using [EyeBeam](http://www.counterpath.com/eyebeam.html), the paid version of [X-Lite](http://www.counterpath.com/x-lite.html) as the SIP client on my Mac and it seems to be working fine. The connection seems to be basically reliable and stable dialing into the conference call services. I got [a script that connects it to Apple Address Book](http://www.faqintosh.com/risorse/en/othutil/addrbook/xlite/) which is nifty. On the other hand, I don't really like the interface on the client itself.
+
+I'm still using FreeConference.com for US only conference calls and using [Intercall](http://www.intercall.com/) for calls that require International dial-in numbers. I've used MCI and ATT in the past for these global dial-in services and Intercall seemed to have comparatively reasonable rates. The main problem is that even "reasonable" is not really cheap. Also, Intercall and all of the conference call services except for the expensive MCI (I think it was MCI) system that I used, none of the conference call services seem to have a good web interface to let you do things like mute individual callers, dial out, identify participants, etc.
+
+I've used [WebEx](http://webex.com/) and use [Adobe Acrobat Connect Pro](http://www.adobe.com/products/acrobatconnectpro/) a lot when I am doing a webcast or have a presentation which has some of this functionality, but I'm really looking or a system more focused on voice and PSTN integration that is low-cost and light-weight, but with a web interface. Any hints would be greatly appreciated.
+
+I use a Mac so the client software I mentioned and Skype reliability might be different for a PC.

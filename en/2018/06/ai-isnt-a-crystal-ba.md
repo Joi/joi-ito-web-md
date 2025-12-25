@@ -1,0 +1,45 @@
+---
+title: "AI Isn’t a Crystal Ball, But It Might Be a Mirror"
+date: 2018-06-09T00:00:00
+permalink: https://joi.ito.com/weblog/2018/06/09/ai-isnt-a-crystal-ball.html
+language: en
+categories: []
+author: Joichi Ito
+source_path: /weblog/2018/06/09/ai-isnt-a-crystal-ball.html
+extracted: 2025-12-25
+---
+
+A version of this piece appeared as  
+[WIRED Ideas: AI Isn’t a Crystal Ball, But It Might Be a Mirror on May 9, 2018](https://www.wired.com/story/ideas-ai-as-mirror-not-crystal-ball/ "WIRED Ideas: AI Isn’t a Crystal Ball, But It Might Be a Mirror").
+
+Everyone from the ACLU to the Koch brothers wants to reduce the number of [people in prison and in jail](https://www.washingtonexaminer.com/koch-brothers-introducing-new-criminal-justice-reform-initiative). Liberals view mass incarceration as an unjust result of a racist system. Conservatives view the [criminal justice system](https://www.wired.com/tag/criminal-justice/) as an inefficient system in dire need of reform. But both sides agree: Reducing the number of people behind bars is an all-around good idea.
+
+To that end, AI—in particular, so-called predictive technologies—has been deployed to support various parts of our criminal justice system. For instance, predictive policing uses data about previous arrests and neighborhoods to direct police to where they might find more crime, and similar systems are used to assess the risk of recidivism for bail, parole, and even sentencing decisions. Reformers across the political spectrum have touted risk assessment by algorithm as more objective than decision-making by an individual. Take the decision of whether to release someone from jail before their trial. Proponents of risk assessment argue that many more individuals could be released if only judges had access to more reliable and efficient tools to evaluate their risk.
+
+Yet a 2016 ProPublica investigation revealed that not only were these assessments often inaccurate, the cost of that inaccuracy was borne disproportionately [by African American defendants](https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say), whom the algorithms were almost twice as likely to label as a high risk for committing subsequent crimes or violating the terms of their parole.
+
+We’re using algorithms as crystal balls to make predictions on behalf of society, when we should be using them as a mirror to examine ourselves and our social systems more critically. Machine learning and data science can help us better understand and address the underlying causes of poverty and crime, as long as we stop using these tools to automate decision-making and reinscribe historical injustice.
+
+### Training Troubles
+
+Most modern AI requires massive amounts of data to train a machine to more accurately predict the future. When systems are trained to help doctors spot, say, skin cancer, the benefits are clear. But, in a creepy illustration of the importance of the data used to train algorithms, a team at the Media Lab created what is probably the world’s [first artificial intelligence psychopath](http://norman-ai.mit.edu/) and trained it with a notorious subreddit that documents disturbing, violent death. They named the algorithm Norman and began showing it Rorschach inkblots. They also trained an algorithm with more benign inputs. The standard algorithm saw birds perched on a tree branch, Norman saw a man electrocuted to death.
+
+So when machine-based prediction is used to make decisions affecting the lives of vulnerable people, we run the risk of hurting people who are already disadvantaged—moving more power from the governed to the governing. This is at odds with the fundamental premise of democracy.
+
+States like New Jersey have adopted pretrial risk assessment in an effort to [minimize or eliminate the use of cash-based bail](https://www.wired.com/story/bail-reform-tech-justice/), which multiple studies have shown is not only ineffective but also often deeply punitive for those who cannot pay. In many cases, the cash bail requirement is effectively a means of detaining defendants and denying them one of their most basic rights: the right to liberty under the presumption of innocence.
+
+While cash bail reform is an admirable goal, critics of risk assessment are concerned that such efforts might lead to an expansion of punitive nonmonetary conditions, such as electronic monitoring and mandatory drug testing. Right now, assessments provide little to no insight about how a defendant’s risk is connected to the various conditions a judge might set for release. As a result, judges are ill-equipped to ask important questions about how release with conditions such as drug testing or GPS-equipped ankle bracelets actually affect outcomes for the defendants and society. Will, for instance, an ankle bracelet interfere with a defendant’s ability to work while awaiting trial? In light of these concerns, risk assessments may end up simply legitimizing new types of harmful practices. In this, we miss an opportunity: Data scientists should focus more deeply on understanding the underlying causes of crime and poverty, rather than simply using regression models and machine learning to punish people in high-risk situations.
+
+Such issues are not limited to the criminal justice system. In her latest book, *Automating Inequality*, Virginia Eubanks describes several compelling examples of failed attempts by state and local governments to use algorithms to help make decisions. One heartbreaking example Eubanks offers is the use of data by the Office of Children, Youth, and Families in Allegheny County, Pennsylvania, to screen calls and assign risk scores to families that help decide whether case workers should intervene to ensure the welfare of a child.
+
+To assess a child’s particular risk, the algorithm primarily “learns” from data that comes from public agencies, where a record is created every time someone applies for low-cost or free public services, such as the Supplemental Nutrition Assistance Program. This means that the system essentially judges poor children to be at higher risk than wealthier children who do not access social services. As a result, the symptoms of a high-risk child [look a lot like the symptoms of poverty](https://www.wired.com/story/excerpt-from-automating-inequality/), the result of merely living in a household that has trouble making ends meet. Based on such data, a child could be removed from her home and placed into the custody of the state, where her outcomes look quite bleak, simply because her mother couldn’t afford to buy diapers.
+
+### Look for Causes
+
+Rather than using predictive algorithms to punish low-income families by removing their children, Eubanks argues we should be using data and algorithms to assess the underlying drivers of poverty that exist in a child’s life and then ask better questions about which interventions will be most effective in stabilizing the home.
+
+This is a topic that my colleague Chelsea Barabas discussed at length at the recent [Conference on Fairness, Accountability, and Transparency](https://www.youtube.com/watch?v=WV54CQiplSI), where she presented our paper, “Interventions Over Predictions: Reframing the Ethical Debate for Actuarial Risk Assessment.” In the paper, we argue that the technical community has used the wrong yardstick to measure the ethical stakes of AI-enabled technologies. By narrowly framing the risks and benefits of artificial intelligence in terms of bias and accuracy, we’ve overlooked more fundamental questions about how the introduction of automation, profiling software, and predictive models connect to outcomes that benefit society.
+
+To reframe the debate, we must stop striving for “unbiased” prediction and start understanding causal relationships. What caused someone to miss a court date? Why did a mother keep a diaper on her child for so long without changing it? The use of algorithms to help administer public services presents an amazing opportunity to design effective social interventions—and a tremendous risk of locking in existing social inequity. This is the focus of the [Humanizing AI in Law](https://www.media.mit.edu/projects/HAL/overview/) (HAL) work that we are doing at the Media Lab, along with a small but growing number of efforts involving the combined efforts of social scientists and computer scientists.
+
+This is not to say that prediction isn’t useful, nor is it to say that understanding causal relationships in itself will fix everything. Addressing our societal problems is hard. My point is that we must use the massive amounts of data available to us to better understand what’s actually going on. This refocus could make the future one of greater equality and opportunity, and less a *Minority Report*–type nightmare.

@@ -1,0 +1,43 @@
+---
+title: "In This Land-Grab Era of Net Growth, We Can Be Both Successful and Generous"
+date: 2000-05-01T00:00:00
+permalink: https://joi.ito.com/weblog/2000/05/01/in-this-landgra.html
+language: en
+categories: []
+author: Joichi Ito
+source_path: /weblog/2000/05/01/in-this-landgra.html
+extracted: 2025-12-25
+---
+
+From my column in Japan Inc.:
+
+- Went to visit some business model patent experts.  
+- Had dinner with Kuroiwa-san [Yuji Kuroiwa, Japan's Ted Koppel] and his director from TV Man Union.  
+- Had dinner with Yu Takami and Kotaro Yamamoto.  
+- Met with Dan Fujii from Hambrecht & Quist. It looks like H&Q are being very aggressive in Asia and they may help raise the quality of VCs here.  
+- Met with Funabashi-san of Asahi Shimbun.  
+- Gave a short presentation at the Global Internet Project meeting.  
+- Had breakfast with [John Patrick](http://patrickweb.com/).  
+- Was selected to be on, and attended, the first advisory board meeting for MITI's preparation for the next round of WTO talks.
+
+Continue reading [In This Land-Grab Era of Net Growth, We Can Be Both Successful and Generous](https://joi.ito.com/weblog/2000/05/01/in-this-landgra.html#more).
+
+[From my column in Japan Inc.](http://www.japaninc.net/)
+
+Went to visit some business model patent experts. It looks like the Japanese patent office is encouraging people to file business model patents. What an extremely stupid position. I can't see how business model patents help Internet businesses in any way. Internet ventures should be able to compete without having to resort to this sort of protection. I think business model patents are an attempt on the part of the US to leverage the advantage they have of being ahead of the rest of the world in the development of Internet businesses. How typical for Japan to copy the US without thinking about the chilling effect it will have on the market and the inherent stupidity in the concept. Who is going to invest in Internet startups if there is a risk that some behemoth US business might come in later with a portfolio of submarine patents and steamroll the thing. Arrgh.
+
+Had dinner with Kuroiwa-san [Yuji Kuroiwa, Japan's Ted Koppel; see [www.kuroiwa.com](http://www.kuroiwa.com/)] and his director from TV Man Union. Kuroiwa-san is a very well-known announcer on Fuji-TV news. He joined TV to try to make a difference in society. He spearheaded the Japanese effort to create paramedics in Japan. Until Kuroiwa-san focused on this issue, Japanese ambulances did not carry doctors. We talked about the role of mass media and the fact that, although it can have great impact, there are many things that it cannot accomplish. Mass media created "the public." The Internet is going to redefine media. I think all socially conscious people are waiting for the Internet to penetrate into everyone's lives and for the birth of a new media that is not controlled by advertisers and "the establishment." I asked Kuroiwa-san to quit Fuji and focus his attention on the Internet once we clear the 50 percent penetration mark. ;-)
+
+Had dinner with Yu Takami and Kotaro Yamamoto. I met Yu-san many years ago when he started the Salary Man's party. He also started a foundation to focus on recycling. As an environmentalist he had been very active, and his leadership and organizational ability put him close to the top in this area. According to Yamamoto-san he came up with the idea for Takami-san to network all of the organic vegetable farmers and sell direct to people who wanted organic vegetables. This network quickly became one of the largest in Japan, and recently Takami-san sold the business to the makers of Aojiru [a veggie drink famous for being disgusting but good for you. Slogan: "Ahhh, disgusting!"].
+
+Takami-san is one of the most "un-capitalist" people I know, and now he is sitting on a fortune looking for some place to spend it. I think this may really be an excellent thing for Japanese politics and society waiting to happen. It is really great seeing people who get rewarded for focusing on "the right thing."
+
+Met with Dan Fujii from Hambrecht & Quist. It looks like H&Q are being very aggressive in Asia and they may help raise the quality of VCs here. Dan Fujii is the brother of a sempai of mine from ASIJ (the American School in Japan). The ASIJ alum are really out in force these days. I remember that after graduating, many of the ASIJ team went off to foreign financial institutions, probably because they could leverage their bilingual ability and because the pay was good. Now, the great convergence of geeks and money is happening in Japan and it is creating a ASIJ reunion.
+
+Met with Funabashi-san of Asahi Shimbun. He is spearheading the movement to make English a second language in Japan and is an advisor to prime minister Obuchi. Since my Japanese language ability sucks, I am obviously in favor of this, but aside from my personal interests, I think that it is a very good idea to increase the level of English literacy in Japan. I remember when I was interpreting for the former chairman of NHK, chairman Shima, he asked me to tell Jack Valenti (chairman of the Motion Picture Association of America) that the less English a Japanese person spoke, the more likely it was that that person had power. I think the belief that all power in Japan resides in non-English-speaking power brokers in Tokyo has really held back the globalization of Japan. I think it is time that we blow away this silly inferiority complex/superiority-complex bullshit and get on with it. Obviously, the non-English literate majority in Japanese politics are going to try to block this initiative.
+
+Gave a short presentation at the Global Internet Project meeting. The GIP is chaired by [John Patrick](http://patrickweb.com/), the VP of Internet Technology for IBM and an advisory board member of Neoteny. The GIP works on Internet policy issues at a global scale to help make Internet available everywhere. One issue that I brought up after Elliot's (head of EC stuff at US Department of Commerce) talk was that I thought security and privacy policy should not only include legal and operational commitments on the part of operators, but should also require technical disclosures and third party audits of technology to make sure that all technical attempts to make things secure and private were in place and properly written. I believe that consumers and shareholders should force companies to be audited technically for security and privacy negligence. Anyway, I think everyone agreed that this was an important topic, but that there were just too few technically competent people making noise on policy boards. I think it was Vint Cerf who said that probably consumers should lead this push and not policy makers. I think he may be right.
+
+Had breakfast with [John Patrick](http://patrickweb.com/). We talked about the future of Neoteny. We agreed that in the future, people would wake up and realize that many big companies and entrepreneurs did not have the ethics to take care of our privacy, return wealth to the community, and other things that you would expect good people to do. John had written a paper on e-philanthropy (<http://www.adtech.internet.ibm.com/patrick/pages /e-philanthropy.html>) that I found very interesting. I believe that having the highest level of ethics, contributing to the community and not giving in to the win-lose sort of competitive element is essential for building trust and value that lasts. You can't buy trust later, no matter how much money you have. (Even if you are Bill Gates.) John and I agreed that building trust from the beginning was essential. Also, I believe in this "land grab" era of Internet growth, we have the unique opportunity to be both extremely successful and generous, and generally win-win all around. We should take advantage of this unique period in history where I believe that good guys really can win!
+
+Was selected to be on, and attended, the first advisory board meeting for MITI's preparation for the next round of WTO talks. The talks will focus on deregulation of all levels of e-commerce on a global scale. I think that deregulation is generally a good idea, but business model patents and the US copyright on killer content may give them the opportunity to create lots of global monopolies which we should all watch out for. It was a very strange feeling sitting with the people who generally throw up the barriers that I'm always trying to tear down.

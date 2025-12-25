@@ -1,0 +1,39 @@
+---
+title: "Aesthetics of the Internet - Context as a Medium"
+date: 1997-06-19T00:00:00
+permalink: https://joi.ito.com/weblog/1997/06/19/aesthetics-of-t.html
+language: en
+categories: []
+author: Joichi Ito
+source_path: /weblog/1997/06/19/aesthetics-of-t.html
+extracted: 2025-12-25
+---
+
+For Ars Electronica 1997 June 19, 1997:
+The Internet connects computers, people, sensors, vehicles, telephones, and just about anything together in a global network which is fast and cheap. This interconnectedness is the context. Context represents the way and the timing in which nodes are connected together. If content were the noun part of information, then context would be the verb part.
+
+By Joichi Ito
+
+For Ars Electronica 1997 June 19, 1997
+
+The Internet connects computers, people, sensors, vehicles, telephones, and just about anything together in a global network which is fast and cheap. This interconnectedness is the context. Context represents the way and the timing in which nodes are connected together. If content were the noun part of information, then context would be the verb part.
+
+New forms of media and communications tend to mimic its predecessors. Carl Malamud gives the example of early television where television shows often consisted of a radio announcer and a microphone on the screen. The Internet often has been called a method of online publishing or online broadcasting. Magazine publishers tell me that Internet advertising on a computer screen doesn't compare to an excellent full page ad in a magazine. Television producers often compare gritty Internet video to the power of a excellent television commercial. The Internet as a medium is not suited for the delivery of high volumes of the same information to many people. Currently,\* the Internet connects everyone together at rather low bandwidth at low cost. The Internet delivers context, and it is of this that we should be building the future the Internet.
+
+Much of the information in today's world and on the Internet expires very quickly. Fifteen minute old stock quotes become free, instant stock quotes costing money. Yesterday's newspapers are free on the Internet, but today's (or tomorrow's) can cost you money. It is a relationship with the newspaper and its reporters that is more important than the database of old articles. Your Netscape browser will expire in weeks. Stealing an old Netscape diskette at a computer shop makes very little sense. Rather than downloading lots of software, on the Internet people remember where to find what they need, or better yet, who to ask or where to search. It is information about information about information... Just as our monetary system has become very abstract, our currencies represent something that really has no physical reality, most information on the Internet is about context, rather than content. Instead of the hard data of yesteryear that could be bound in a book, stacked in a warehouse and distributed by trucks, the information on the Internet is about being connected LIVE and about being in the right place at the right time.
+
+Communities on the Net consist of a group of people connected to each other in the form of discussions, games, or some other form of two-way connectedness. People invest time and energy into these communities and these communities evolve into a complex aggregate of relationships between people mediated by a technology and a context. It becomes a kind of place. These communities are influenced by the underlying technology, but grow far beyond the technology itself. The technology is a kind of genetic basis on which a new organism can grow, receiving input from its environment through its participants.
+
+Artwork, writing and other forms of content which are often nearly static in the slow moving physical world can also become living things in the fluid, high-speed context of the Internet. An interesting idea or design can quickly become a popular item to be sampled, edited and redistributed. The artist can view their work, or their child, quickly develop in something quite different from what it was originally intended to be. The original artist is the parent, but unlike a child raised in complete isolation, work on the Internet is educated and formed, for better or for worse, into a product of its environment and society. Putting work on the Internet is more like giving birth than creating a static object.
+
+Communities, multi-user games systems, markets, search engines and router configurations are all context oriented. The aesthetic of context is the design of such context-oriented systems which are outstanding in their nature. A good context-oriented system causes the network of living connections to converge, interact and grow. It adds value to the network and attracts users and connections.
+
+The Internet is a self-organizing adaptive system. As John Casti from the Santa Fe Institute pointed out in his talk at the Ars Electronica Memesis symposium last year, one can understand completely the process in which a complex adaptive system works, but it is impossible to predict what it does. The Internet self-organizes itself in the very interesting area between total chaos and order. Eric Hughes has called it a working anarchy. When order is forced onto the Internet such as rigid protocols or singular ubiquitous operating systems, that layer becomes very brittle and as one learns in catastrophe theory, a shock to the system can cause a huge amount of damage. One virus or bug in the system could take the whole system down. The more inefficient and diverse nature of the current memetic/software pool allows the risk to be distributed. Many small earthquakes can help prevent a catastrophic earthquake. It is the inefficiency and the small errors that can help the Internet adapt and grow without imploding or exploding.
+
+Ordered efficient systems are also very susceptible to fluctuation amplification. With feedback going in the wrong direction, small fluctuations in economy, politics, traffic or opinion can be amplified by the super-efficient network and explode or crash. Nature uses feedback systems that dampen such fluctuations in an elegant way to contain the energy and balance the systems. This non-linear balance is becoming exceedingly more important than to make the system faster or more efficient. This balance can also be explained as the aesthetic of the context.
+
+Nearly complete chaos can also be found on the Internet in the sheer number of disorganized pieces of content and people. Total chaos can also be made much more useful by adding just enough context to help group the content and people into useful communities and networks.
+
+Therefore, I would conclude that both complete order and complete chaos offer very little information, value or energy. Systems that help order chaos or disorder order are useful. In addition, the way in which these systems cause this non-chaos/non-ordered system to manifest should retain or create as much energy as possible while keeping a feedback system that prevents it from amplifying into destruction or dampening into nothing. This requires a group of rules or memes that attracts energy in the form of people, content, traffic, money, etc. and organizes this content in a way that grows and adds value. It is almost a kind of memetic engineering.
+
+The memetic engineer/Internet artist is interested in coming up with an idea, software protocol or image that grows and evolves on the Internet. It is more about creating life than about creating a non-living piece of art. The memetic engineer seeks to have the particular meme copied and replicated where traditional artists are protective of their work. It is the use, familiarity and reproduction that makes a meme powerful and proves its aesthetic quality. The Internet artist and the meme both work in the medium of context rather than content.

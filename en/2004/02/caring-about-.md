@@ -1,0 +1,16 @@
+---
+title: "Caring about the rest of the world"
+date: 2004-02-22T00:00:00
+permalink: https://joi.ito.com/weblog/2004/02/22/caring-about-th.html
+language: en
+categories: []
+author: Joichi Ito
+source_path: /weblog/2004/02/22/caring-about-th.html
+extracted: 2025-12-25
+---
+
+As a child I travelled a lot, but mostly between US and Japan. I dealt with a lot of bicultural issues, but the rest of the world seemed far away. In the 90's I started going to Europe and Asia more, but it was always to "civilized" places.
+
+Several years ago, I became [actively involved in trying to reform Japan](http://joi.ito.com/archives/cat_reforming_japanese_democracy.html) and [I was allowed to be quite vocal about this](http://slate.msn.com/id/2077083/entry/2077727/). Last year, [I gave a rant at Davos about how broken Japanese democracy was](http://joi.ito.com/archives/2003/02/06/draft_of_oped_for_the_south_china_morning_post.html). Afterwards, Ms. Ogata, the former UN High Commissioner for Refugees told me that I should stop ranting as a Japanese and think more about global democracy and global issues. These words stuck with me and last year I tried to think about blogs and [emergent democracy](http://joi.ito.com/joiwiki/EmergentDemocracyPaper) outside of the Japanese context. With the US elections front and center, the obvious place to try to apply these thoughts was the US. Having spent a year or so thinking about US politics, I realize how important the US election is, but I'm drawn more and more to countries that need more help.
+
+I think many of us avoid thinking about or worrying about the rest of the world. We hear people talking about poverty, but it sounds like something in some far away country on a National Geographic special. Most people just don't care. To be honest, I cared, but in retrospect, I didn't REALLY care. I guess better late than never. As I prepare for my trip to Africa with [Ethan](http://blogs.law.harvard.edu/ethan/) and try to figure out exactly how I can contribute and what I should be studying, I'm drawn back to organizations such as the [UNHCR](http://www.unhcr.ch/cgi-bin/texis/vtx/home). On the flight back to Japan, I saw [Beyond Borders](http://www.imdb.com/title/tt0294357/#comment), a movie about relief work and the UNHCR, starring Angelina Jolie. The movie captured some of the experiences of being an activist on a global level and I watched it thinking about what drove some people to such high levels of commitment. Googling around, I found [Angelina Jolie's journal from her mission to Russia last year](http://www.unhcr.ch/cgi-bin/texis/vtx/home/+QwwBmeKtdhewxwwwwnwwwwwwwhFqnN0bItFqnDni5AFqnN0bIDzmxwwwwwww/opendoc.html). (We need to get her a blog...) What is really striking to me and something that I'm trying understand is the process that people go through to reach a higher level of caring for human beings outside of their immediate circle. I think that this process holds the key for some of the important contributions that technologies can make.

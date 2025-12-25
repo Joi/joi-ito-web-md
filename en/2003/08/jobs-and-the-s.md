@@ -1,0 +1,24 @@
+---
+title: "Jobs and the strength of weak ties"
+date: 2003-08-16T00:00:00
+permalink: https://joi.ito.com/weblog/2003/08/16/jobs-and-the-st.html
+language: en
+categories: []
+author: Joichi Ito
+source_path: /weblog/2003/08/16/jobs-and-the-st.html
+extracted: 2025-12-25
+---
+
+M. S. Granovetter .The strength of weak ties : A network theory revisited. In Sociological Theory (1), 1983. is an important paper for understanding social software. Unfortunately, it's an academic paper and therefore NOT ONLINE. (I'll rant about that later). In the paper, Granovetter describes strong ties and weak ties. Strong ties are your family, friends and other people you have strong bonds to. Weak ties are relationships that transcend local relationship boundaries both socially and geographically. He writes about the importance of weak ties in the flow of information and does a study of job hunting and shows that jobs are more often found through weak ties than through strong ties. This obviously overlaps with the whole 6 degrees thing. I do believe there are some "nodes" but think that it is much more complex than a simple power law with a few number of local maximums.
+
+After reading [Shannon "Pet Rock Star" Campbell's piece](http://www.shannoncampbell.info/mt/archives/003442.html) on her quest for a job at a temp agency and the ["Nickel and Dimed: On (Not) Getting By in America"](http://www.floridacdc.org/infofax/020517.htm) page, I decided to look at all of "this stuff" from the perspective of jobs.
+
+I was recently at an advisory board meeting for a trade school. We had just done a survey of employers asking for what they their primary criteria for choosing new employees was and it was overwhelmingly about execution and character and very little about skills. Skills, they said, could be taught later. I believe that "character" in the context of a job is your self-esteem and your passion for what you are doing.
+
+What I would like to assert is that social software can help people with their self-esteem and can also help you find others who can find your assets and interests more valuable and place people in jobs where one can have "character". I [wrote about this self-esteem thing earlier](http://joi.ito.com/archives/2003/08/07/blogs_and_small_green_pieces_of_paper.html) and in a trackback on that item, you can find a link to "Exhibit A". [Boris writes first hand](http://bopuc.levendis.com/RowBoat/archives/-2003/08/06/belonging_and_esteem.php) about the development of his self-esteem through blogs and IRC.
+
+Shannon is a really interesting "case" for me. She is witty, has great character, is a brilliant musician, is a poster-child for the Creative Commons (I first heard of her when Larry Lessig was raving on about her over lunch), and she's worried about her interview at a temp agency in South Carolina. Something's wrong here. I know several other people on my IRC channel who are looking for jobs where they are surrounded geographically by people who don't understand or are unable to "leverage" the assets of that individual.
+
+What I can see emerging is a way to amplify the strength of weak ties. (I knew this before, but it's becoming more crisp to me now.) IRC allows me to see the style and personality of many of the people online. Blogs help me see what their interests are and focus is. [LinkedIn](http://www.linkedin.com) provides a professional context for referrals. I think that supporting the process of developing your assets and character and finding a job that best suits you will be one of the single most important benefits of social software. I know I've been [ranting about Emergent Democracy](http://joi.ito.com/joiwiki/EmergentDemocracyPaper) and about level 2 and 3 in Maslow's hierarchy of Needs, but I just realized that social software may be most important in addressing level 1, finding the job that brings home the bacon. I know this is stupid of me and everyone is saying "doh" right now, but this, to me, is a big "ah ha".
+
+[I recently hired two people who were IRC regulars](http://joi.ito.com/archives/2003/08/13/adriaan_and_jim_join_the_team.html). I felt very comfortable after "getting to know them" over the last few months on IRC. Of course face to face meetings and interviews were essential, but the time spent with them on IRC really added to my ability to judge their character. I realize now that I am actively recruiting from my network of weak ties on the Net and also using the Net to meet interesting people to connect with others who might be good collaborators for those interesting people. The Net has always been a big part of my arsenal of networking tools, but I think it's reaching a whole new level.

@@ -1,0 +1,18 @@
+---
+title: "Yokohama Committee for the Protection of Identification Information"
+date: 2005-05-16T00:00:00
+permalink: https://joi.ito.com/weblog/2005/05/16/yokohama-commit.html
+language: en
+categories: []
+author: Joichi Ito
+source_path: /weblog/2005/05/16/yokohama-commit.html
+extracted: 2025-12-25
+---
+
+Today was the City of Yokohama Committee for the Protection of Identification Information Committee meeting. I was [appointed to this committee in 2003](http://joi.ito.com/archives/2003/04/09/appointed_committee_member_of_the_committee_for_the_protection_of_indentification_information_for_the_city_of_yokohama.html) in the wake of their decision to allow their citizens to opt out of the Japanese Basic Resident Code database. I was reappointed again today. I joined a number of these government committees to try to help protect rights, prevent stupid decisions and change bad laws, but I am increasingly frustrated by the Japanese bureaucracy and the ability to cause any change through these committees. (Although local government committees are clearly more sincere than central government committees.) I think part of it is because I am spending more and more time outside of Japan where board positions or public debate appear to have more direct effect. Generally speaking, Japanese government committees allow you to say what you feel, but it is very unclear exactly what effect what you say has. (One exception was when I think I did permanent damage in a committee to the stupid idea of Japan trying to do a version of the Clipper chip when it was in vogue in the US.)
+
+The meeting today was open to the public and there was one reporter and two citizen observers. The city officials reported on the status of the system. 836,654 or 23.78% of the people are opted out of the system and only 15,503 people have asked to be issued national ID cards. After the report, we were asked to discuss issues generally.
+
+My opinion was that because of all of the commotion that we made around the security issues of the system, the security of the core system itself is fairly good, but the local government networks that it connects to are still a mess. Also, my main concern has always been the risk of the data being collected and abused OUTSIDE of the core network and these issues have not been addressed. There have been some fraudulent cards, but major crimes have not been committed. I warned that this is because barely anyone is using the network. If the government comes up with some useful application for the ID system, I'm sure fraud will increase. I also pointed out that at this level of usage, it can't be making any financial sense for the local governments who have installed and are running the system. Yokohama is one of the largest cities, but in small towns, there are still only dozens of users. I added rather bluntly that considering the cost and the potential risk because of the ill-conceived architecture, I still think they should shut the whole thing down and start from scratch building something useful using modern privacy technology to address specific needs rather than continue to use this expensive and pointless system. The system was basically a product of the e-Japan initiative to make Japan #1 in IT and fuel it with government spending. Of course building a national ID system would be a great way to spend a lot of money. Anyone who has run a business knows, that you shouldn't invest good money after bad. Just because it cost a lot to build doesn't mean we need to keep investing.
+
+I doubt, of course, that my opinion will change anything, but at least it's on the public record.

@@ -1,0 +1,34 @@
+---
+title: "Leadership in World of Warcraft"
+date: 2006-03-13T00:00:00
+permalink: https://joi.ito.com/weblog/2006/03/13/leadership-in-w.html
+language: en
+categories: []
+author: Joichi Ito
+source_path: /weblog/2006/03/13/leadership-in-w.html
+extracted: 2025-12-25
+---
+
+This ended up becoming a longer and more rambling post than I expected, but I'm going to post it anyway since I don't write enough these days...
+
+The other day, I was doing an interview for a management and strategy magazine and one of the questions that came up in the conversation was why the management structures in Internet companies often end up being very old-fashioned. There is clearly some innovation, but not as much as you might expect considering how much the Internet enables us to be innovative in our communications and collaboration. We talked a bit about leadership and I was reminded of some conversations I had about the Howard Dean campaign.
+
+My theory is that Howard Dean was a "place". He was a cool place to hang out at and the cool kids hung out there. Some of the elements of a cool place is that there isn’t so much of an "authority" but there is a sense of safety. The community was vibrant and Howard Dean seemed to be listening more than he was asserting. Years ago I created an IRC channel called #joiito, at the time for a place for people I was communicating with to hang out. It continues to survive with about 100 people always logged into the channel. I don’t hang out there as much these days, but it survives as a cool place, all of the regulars taking their share of leadership responsibility. One interesting thing about the channel is that I have never had to exercise any "authority" and people don’t really look to me as anything more than a custodian or a quiet host. I was just the trigger for the creation of a place.
+
+Recently I have started playing World of Warcraft (WoW). [Our guild](http://joiwiki.ito.com/joiwiki/index.cgi?we_know), created in September last year, has grown to about 160 people and we have just begun running "Molten Core. Molten Core is one of the higher-level areas that require around 30-40 level 60 (the maximum level) players. It requires a lot of coordination, a balanced distribution of classes, training and leadership.
+
+People pay a $15/month fee to play WoW. In the real world, most people get paid to work. The members of our guild and our raids are people who are paying to participate in what is often very tedious and hard work. Although there are clear goals and rewards for putting time into the game, most of the people in our guild play because they enjoy being together.
+
+I’m sure there are other guilds that are managed differently - our guild is very inclusive and I changed the role name of "Guild Master" to "Guild Custodian". The next rank in our guild is "Guild Admin". Like my IRC channel, so far I have not had to exercise power or authority and Guild Admins are focused more on mediating conflicts and providing stability more than dishing out orders or punishment. We have had our share of problems, but considering the diversity of backgrounds and the geographic and political diversity, it’s amazingly cozy and friendly. Hanging out and chatting in guild chat has slightly more purpose than an IRC channel, but is similar in many ways.
+
+In a raid, the dynamics are quite different. There are dozens of people who have all decided to assemble after preparing various items to use during the raid, training, gearing up and otherwise preparing for the raid. Excitement and tensions run high and a little screw-up from one person can get every killed (a wipe), causing huge repair bills and delays that causes more tension. One of the most important things about a raid is the mood of the raid. When everyone is upbeat and having a good time, mistakes and wipes are shrugged off and people continue to push forward. A well-run raid is an amazing thing to participate in. Each of the classes has a class leader and a class chat channel. There are leader channels, healer channels and voices over teamspeak. Everyone uses all of these modes of communication to coordinate the activities and we are able to execute extremely complicated strategies with very minimal control. However, if one person begins to complain or become abusive, the bad mood quickly spreads and what used to be fun and easy becomes impossible and tedious. People start dropping out of the raid and it unravels. The primary role of the raid leader to mitigate this kind of corrosive behavior while making sure each of the groups are communicating with each other.
+
+I am not the raid leader of our guild and I am in awe of Persimmon who is our raid leader. She works in a hospital in real life. She is the stabilizing force during the raids, supporting the class leaders, nudging the conversation and keeping the raid moving as fast as possible without moving too fast. I find that she reminds me of many successful open source project leaders or Jimmy Wales of Wikipedia, except that what she has to do happens much faster and in real-time. Without her fully customized user-interface and scripts she would never be able to manage what she does.
+
+The other leaders in our guild including class leaders and admins include unemployed bartenders, construction workers, students, a priest, a folk music singer, web designers, moms and government employees. Although WoW has been called "the new golf";, it isn't about elitist country clubs and privilege but about an amazing melting pot of personalities and backgrounds tied together with a strong sense of sharing and belonging.
+
+Although the larger raids are scheduled in advance with people preparing and showing up at the scheduled time, many smaller raids are organized at the spur of the moment where a leader is designated on an ad hoc basis. To be successful, a raid requires particular class compositions sometimes requiring our guild members to reach out to people they don’t know to join the raid. We are getting better at raiding and many of these “pickup” members end up joining our guild eventually.
+
+The structure and the organization required to complete missions or quests in WoW adds a great deal of focus and complexity to the community compared to a chat room and the communications and management begins to feel much more like collaboration in a work environment. I think that the ever-evolving user interface and communication tools that we are developing might impact the future of management in the real world. My feeling is that what we are doing in WoW represents in many ways the future of real time collaborative teams and leadership in an increasingly ad hoc, always-on, diversity intense and real-time environment.
+
+UPDATE: I chatted about this at SXSW in Austin yesterday and [Daniel wrote about it in CNET](http://news.com.com/2061-10797_3-6048770.html).

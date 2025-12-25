@@ -1,0 +1,22 @@
+---
+title: "Can we control our lust for power?"
+date: 2003-02-24T00:00:00
+permalink: https://joi.ito.com/weblog/2003/02/24/can-we-control.html
+language: en
+categories: []
+author: Joichi Ito
+source_path: /weblog/2003/02/24/can-we-control.html
+extracted: 2025-12-25
+---
+
+Inspired by [Clay's claims about the power law distribution of blogs](http://www.shirky.com/writings/powerlaw_weblog.html), I've been thinking and writing ([with many others](http://www.shirky.com/writings/powerlaw_weblog.html)) about [emergent democracy](http://joi.ito.com/static/emergentdemocracy.html) in the hopes that blogs will not create an elite ruling class, but will allow direct democracy to emerge from the chaos. The irony of my [technorati](http://www.technorati.com/cosmos/top100.html) and [daypop](http://www.daypop.com/top/) rankings increasing because of this does not escape me. It feels good to get attention, and this feeling is the lust that drives people to stare at power law curve. [Liz](http://www.it.rit.edu/~ell/mamamusings/) and I were chatting in IM about this today and she quoted: "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them." So, who is the Frodo Baggins of the Internet? Are bloggers hobbits? Who can resist the power law distribution and try to create a more democratic process.
+
+It is not just the Net that suffers from this. In my attempts to change Japan, [Oki Matsumoto and I have been plotting the overthrow of the ruling elite.](http://joi.ito.com/archives/2003/01/05/the_cycle_of_resistance_to_change_in_japan.html) The problem is, to change anything in Japan, you have to be powerful and elite. Once you are powerful and elite, it is almost impossible by definition to overthrow yourself. We are thinking about setting up an organization with limited terms for leadership positions, mandatory retirement at a certain age (You can move on to the next platform.), and a variety of other measures to prevent people from accumulating too much power. I don't know about Oki, but I definitely have the "urge" to take control and lead this thing to the end. But I know from watching all of the others that it will eventually go to your head and you won't realize when you're not as smart as the "followers". It is only at this moment where I have enough power to organize, but not to control, that I must help forge the rules to prevent anyone from spoiling it for the rest of us in the future. I trust my ability to resist the urge to abuse power today, but history shows that most of us are not hobbits and this ability to resist becomes exceedingly difficult.
+
+I would like to quickly point out here that competition is at the center of a healthy market and I would not want to question the value of competition where you have a mechanism to keep it fair. It is in power law distribution oriented situations where power accumulates beyond fairness. Bill Gates lives on the edge of this definition.
+
+So, is lust for power uncontrollable? I don't think so. People have sexual lusts and they overcome them to make society possible. People lust for big SUV's but the US seems to be making it [politically incorrect to fulfill this lust](http://abclocal.go.com/ktrk/news/111302_sn_jesusdrive.html). We have lusts of many kinds, can't we try to condition ourselves away from the lust for power? Hollywood movies tend to reinforce the lust for power. Maybe it starts by changing the role models in society?
+
+What is this leadership thing anyway? Dee Hock has [a great piece](http://futurepositive.synearth.net/2003/01/03) about how leaders should focus on managing their superiors first and peers next and that the followers are the ones who manage the leaders. Emergent leadership is not about control or taking power, it is about ethics, integrity and holding together so that you are empowered by others. A system that promotes leaders quickly as necessary and destroys leaders who retain power for power's sake is what I want.
+
+However, whether we promote good leaders or bad leaders depends on the people. The people will get the leaders that they deserve in such a system and the burden will be on them. (Which, I think is how a democracy is supposed to work.)

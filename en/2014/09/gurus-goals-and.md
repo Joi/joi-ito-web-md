@@ -1,0 +1,46 @@
+---
+title: "Gurus, goals and mindfulness"
+date: 2014-09-25T00:00:00
+permalink: https://joi.ito.com/weblog/2014/09/25/gurus-goals-and.html
+language: en
+categories: []
+author: Joichi Ito
+source_path: /weblog/2014/09/25/gurus-goals-and.html
+extracted: 2025-12-25
+---
+
+![](http://joi.ito.com/archives/images/tim321.GIF)
+
+I remember my 24th birthday very clearly. It was 1990. I had just finished working as the associate to the executive producer on the film [The Indian Runner](http://www.imdb.com/title/tt0102116/). I was running a nightclub in the Roppongi district of Tokyo at the time together with my team from[The Smart Bar](http://smartbarchicago.com/) in Chicago. Madonna had just released "Vogue," Chicago House music had evolved into Acid House and the rave scene was going strong. It was a fun and tumultuous time in the world and in my life.
+
+I met [Timothy Leary](http://en.wikipedia.org/wiki/Timothy_Leary) for the first time through a mutual friend, David Kubiak, the editor of The Kyoto Journal at the time. I remember being very excited about meeting Tim because the rave scene had caused a revival of many 1960s themes. I had been reading books about consciousness and the mind - trying to chart my own journey along a path where Timothy often appeared as a central figure. Most recently, I had read a book by Robert Anton Wilson called *Cosmic Trigger* in which the author first tells the reader that everything in the book is a lie, and then proceeds to weave a story about one of the most wonderfully elaborate conspiracy theories every described. In the book, Wilson explains that "23" is a magic number and also explains that Timothy Leary had received "transmissions" from aliens. I wasn't sure what to believe, if anything, but at the time, I was convinced that the world was full of secrets and I wanted in on them.
+
+I remember standing with Tim at the main Roppongi crossing called "Almond's" at the time named after the venerable coffee shop on that corner where everyone met up on their way into town at night. As we stood there talking about the budding Cyberpunk scene and how it was unfolding in Japan, I remember explaining to Timothy that I had just turned 24 and that I had hoped something magical would happen when I was 23 since it was the "magic number." I also asked him about the "Starseed transmissions" described in Cosmic Trigger. I remember Timothy's laugh vividly, as he told me that the whole thing was a joke. He said that everything in that book as well as most of the stuff that those guys talked about was one big joke and that I shouldn't believe any of it. In one instant, Timothy, the guru of the particular shrine that I was worshiping, knocked me whirling off my path.
+
+Later, Timothy told me another joke.
+
+> A bunch of hippies go to India looking for the meaning of life. They travel for years climbing mountains and looking everywhere for the guru who knew the answer. They finally find the guru who was said to know the meaning of life. They ask the guru, "What is the meaning of life?" The guru says, "Wet birds don't fly at night." The hippies say, "They don't?" The guru says, "Do they?"
+
+This was one of the most important spiritual lessons that I ever learned. That evening, I took Timothy on a whirlwind tour of the Tokyo nightlife scene introducing him to the Japanese kids who he later called "The New Breed" - a new youth culture that was technically and culturally savvy and wanted to take over instead of drop out. Tim modified his "Tune in, Turn on, Drop Out" slogan to "Tune in, Turn on, Take Over." He recruited me as his God Son explaining to me that the role of a God Son was to teach the Godfather. We started writing a book together and did public events around this theme.
+
+Timothy always told everyone to "Question authority and think for yourself." I remember after an event where he and I spoke, a bunch of kids came up to Tim and said, "so what should we do?!?!" and Tim shouted at them, "Think for yourself!!" What I realized as I spent time with Tim was that people wanted gurus and that the more you tried to explain that you weren't a guru, the more many people became convinced that you were in fact a guru and that they wanted in on the secret. People wanted "answers" and wanted to get to some kind of goal. The thing is, there is no answer and there is no goal. You don't "win."
+
+Ever since being knocked off of my original "path to enlightenment" by Timothy Leary, I've dabbled in various spiritual and mindfulness investigations and pursuits with a curious but skeptical stance. In retrospect, I think that Timothy probably believed that there was a spiritual path, but that the particular version of the path that I was on and the naive way that I was thinking about it was best completely destroyed so that I could start again with a more questioning mind.
+
+I've tried very hard to avoid the pull of gurus or being mistaken for some kind of guru myself. I've had many teachers and have tried a variety of meditation and mindfulness techniques, but I still consider myself a novice. I am very happy with my journey and with relative consistency, each year of my life brings more happiness and becomes more interesting and I thank Timothy for the trajectory correction at a key point in my life.
+
+Last year, in an email exchange, Pierre Omidyar, an old friend from my short stint at Tufts University, mentioned that I should look up [Tenzin Priyadarshi](http://www.imonk.org/). Tenzin runs the Dalai Lama Center at MIT and when we met, we decided we should teach a class together. Remembering the adage that the best way to learn is to teach, I jumped on the opportunity to teach a class where I could learn more about mindfulness and work on my practice.
+
+Tenzin and I decided to call the class "Principles of Awareness".
+
+> What is awareness? Is self-awareness a "default" state or is it cultivated? Can it improve performance and wellbeing? What role does technology play in promoting or hindering awareness? Is there an ethical framework for our capacity to be aware? Can self-awareness be linked to happiness? The course will be set in an experiential learning environment where students/ participants will explore various theories and methodologies around awareness. Students will be required to keep an open lab book documenting methods and evaluations. Students will present their findings and observations regularly during class sessions. The final project will consist of evaluating various tools, techniques, and interfaces around awareness targeted towards "performance" and "wellbeing."  
+>   
+> Class meetings (virtual and real) will consist of practice, lectures, and discussions with invited speakers/experts. Some of the talks will be open to the public. And the practice will range from meditation to hacking.
+
+The first class last Wednesday was fascinating. We had a wide range of students, some students had never meditated, some engaged in regular prayer (a form of meditation) and others were experienced in many forms of mindfulness practice. In the conversation about awareness, Tenzin and I talked a lot about meditation. One of the students asked me, "so what's the 'there' you keep referring to?" I realized that I used "there" to refer to the "place" that you get to when you meditate - the place where you connect to true nature and depending on your skill and style of meditation, "there" can be a place of bliss. "There" can also be "enlightenment". Tenzin quickly jumped in and explained that we should not focus on getting "there" because everyone will want to get "there" and that wasn't the point.
+
+I totally agree. One of the best comments I've heard about [Qi Gong](http://en.wikipedia.org/wiki/Qigong), a form of Chinese energy movement and meditation is that you shouldn't be goal oriented. You can't "win" at Qi Gong. The purpose wasn't to get better, although you will, but that the purpose was just the practice. I find the exact same thing about meditation. The point is not to "win" against yourself or anyone else. I find that even writing this blog post smacks of boastfulness and "know-it-all-ness" which is so not the point of the exercise. One will get better at any form of practice the more you do it and feeling good about progress isn't a bad thing, but the whole point of mindfulness and meditation is being present in the "Now" and NOT being goal oriented, egotistical or focused on the future or the past.
+
+I find it off-putting to hear people boast about their meditation practice and in the past, I've mostly only talked about meditation and mindfulness with small groups of people where we were sharing our own experiences. However, now that I'm "teaching" a class about awareness where I'm asking my students to share all of their experiences as well as [keeping an open log of their experiences](http://aware.media.mit.edu/), I thought I should share as well.
+
+I hope to be posting more updates in the coming weeks about some of my experimentation and observations.

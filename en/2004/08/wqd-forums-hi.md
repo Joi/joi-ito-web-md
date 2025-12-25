@@ -1,0 +1,12 @@
+---
+title: "WQD Forums hit 100"
+date: 2004-08-27T00:00:00
+permalink: https://joi.ito.com/weblog/2004/08/27/wqd-forums-hit.html
+language: en
+categories: []
+author: Joichi Ito
+source_path: /weblog/2004/08/27/wqd-forums-hit.html
+extracted: 2025-12-25
+---
+
+In December, [I announced that I quit drinking](http://joi.ito.com/archives/2003/12/15/quit_drinking.html). I got a flurry of comments of support. Several of us who had decided to be sober, thought a group blog about quitting drinking would be interesting so we started [We Quit Drinking, the blog](http://wequitdrinking.typepad.com/blog/). Soon, due to some weird Google magic, the blog became the first result for "quit drinking". A wide variety of people who were looking for support and help dropped in and commented. Jonas, who among other things works with addiction as a counselor, decided that a more private space, a message board requiring login might make sense so he created the [WQD Forums](http://wqd.netwarriors.org/). He [announced today](http://www.jluster.org/node/290) that WQD Forums has hit 100 members and have become a vibrant community of people who are in various stages of sobriety sharing and supporting. Since that day in December, I've received sooo much input and advice. Thank you. Some of it has been very useful and some, frankly, not so helpful. I have been to a few AA meetings and have really enjoyed them. On the other hand, I have not yet passed the first step, "Step One: We admitted we were powerless over alcohol, that our lives had become unmanageable." At the meeting I said, "I think I have a problem, but I don't yet believe that I am powerless or that my life has become unmanagable." The interesting thing is, no one was upset. One AA'er later said, "In AA, we call that 'a quart short'". I think I will still drop into AA meetings because I love the stories and the comfortable atmosphere of sharing, but until I get to Step One somehow, I don't think I can really be a true member. It's been quite a journey hearing the wide variety of opinions about drinking. I've decided on the few advisors and approaches that I think work for me now in helping manage myself. My opinion may change and if I finally believe that I am powerless and my life has become unmanagable, I know I can always count on AA, which I now believe has an incredible power to save people from alcoholism. If you thinking you have a problem or know you have a problem, try dropping by WQD Forums and join us in our emerging community.

@@ -1,0 +1,18 @@
+---
+title: "Ministry's Efforts to Co-Opt Me?"
+date: 2002-08-23T00:00:00
+permalink: https://joi.ito.com/weblog/2002/08/23/ministrys-effor.html
+language: en
+categories: []
+author: Joichi Ito
+source_path: /weblog/2002/08/23/ministrys-effor.html
+extracted: 2025-12-25
+---
+
+Japan has a process where they make boards and inquiry panels to discuss important issues with experts and the public. These inquiry panels are defined by law and are supposed to be an important part of the law making process, but in fact they are often used to diffuse public pressure and just act like they care. I am often asked to join such panels and I find I learn a lot about what is going on and can usually influence the direction ever so slightly. I usually feel this is better than not doing anything, but I am often citied as having been co-opted. In the past, the issues haven't been so important or public so it hasn't really mattered. This time it does.
+
+A month or so ago, the [Ministry of Public Management, Home Affairs, Posts and Telecommunications](http://www.soumu.go.jp/english/index.html) which is in charge of the National ID that I have been protesting approached me and asked me if I could organize a panel to review the privacy issues around the National ID. I consulted with our [protest movement](http://nationalid.hantai.jp/) we decided that if the results were made public and we could fund some privacy research, this was probably a good thing. We are now in the process of organizing a global survey of privacy technology, privacy commissioners and other things that would be useful in considering how to set up the Japanese government privacy policy. We hope to create a recommendation about what Japan should do in creating new system as well as what we can do to minimize privacy invasiveness in the current system. So far so good.
+
+Now I have been contacted again, but this time the request is to be on the board of the National ID committee and be in charge of privacy! Apparently this is a request from the minister. (Very interesting since I practically called him a liar on a live national news program where we debated against each other and I think he called me something that sounded a lot like "stupid." Anyway...) It is probably a move to try to co-opt me. I replied saying that I have no intention of stopping my anti-National ID activity or becoming "quiet." I said I would consider taking the post if I was allowed to be completely open and public about what we discussed in the meetings and if I were allowed to continue to protest the National ID. I think that if I were to take such a post, it would negatively impact the movement. Having said that, as we all know from [Karl Auerbach's](http://www.eff.org/Infra/DNS_control/ICANN_IANA_IAHC/Auerbach_v_ICANN/) ability to really be a pain in the ass to ICANN as a board member, I think co-opting doesn't work when one is able to be public with one's comments. So I'm thinking about this. If they come back and tell me that I have to stop protesting or I have to keep the meeting discussions confidential, I will obviously say, "No." On the other hand, if I am able to blog everything that is going on inside, I wonder if they will be able to co-opt me. Anyway, this may end up being quite an interesting test for this medium and my blog...
+
+On the other hand, (since I know my investors, board members and employees are now reading my blog...) I probably don't have to time to do the job properly considering the fact that I have a [REAL JOB](http://www.neoteny.com/) and this whole thing was supposed to be just a hobby... hmm.... And if I focus my [REAL JOB](http://www.neoteny.com/) too much on my hobby, it compromises my independence... hmm... All this is SO difficult.

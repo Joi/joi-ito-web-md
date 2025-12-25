@@ -1,0 +1,48 @@
+---
+title: "Orientalism by Edward W. Said"
+date: 2004-05-09T00:00:00
+permalink: https://joi.ito.com/weblog/2004/05/09/orientalism-by.html
+language: en
+categories: []
+author: Joichi Ito
+source_path: /weblog/2004/05/09/orientalism-by.html
+extracted: 2025-12-25
+---
+
+[![edwardsaidorientalism](http://joi.ito.com/images2/edwardsaidorientalism.jpg)](http://www.amazon.com/exec/obidos/ASIN/039474067X/chanponorg/)Just finished reading the famous introduction to [Orientalism by Edward Said](http://www.amazon.com/exec/obidos/ASIN/039474067X/chanponorg/). Said was a professor of comparative literature at Columbia University and was a well known Palestinian scholar who died in September of last year. Orientalism was written in 1978, but probably continues to become more relevant.
+
+Basically, he argues that the whole notion of the "Orient" or "Orientalism" is a body of culture, academic work and politics that tries to identify the East as "them" in terms that have evolved through Western imperialism. He makes the point that even work that doesn't appear immediately political had political impact and was part of the larger process of the development of Orientalism. Reading it brings back memories of Trader Vic's and pictures from British Museum exhibits of "Headpiece from dead savage."
+
+He points out some important issues which ties into the [racism as stereotype discussion we had about Lost In Translation](http://joi.ito.com/archives/2004/02/15/asianmediawatchnet_mobilizes_against_lost_in_translation.html). The simplistic stereotypes and the images of the the East leads to a kind of fascination with the Orient, but also creates a false sense of understanding and fake academics upon which many ignorant, racist and imperialistic political decisions are made.
+
+A version of the introduction is available on [The Guardian Unlimited Books web site](http://books.guardian.co.uk/review/story/0,12084,1010417,00.html) so I'll give you a few quotes from there.
+
+Continue reading [Orientalism by Edward W. Said](https://joi.ito.com/weblog/2004/05/09/orientalism-by.html#more).
+
+> Edward W. Said
+>
+> ...Orientalism is very much a book tied to the tumultuous dynamics of contemporary history. Its first page opens with a description of the Lebanese civil war that ended in 1990, but the violence and the ugly shedding of human blood continues up to this minute. We have had the failure of the Oslo peace process, the outbreak of the second intifada, and the awful suffering of the Palestinians on the reinvaded West Bank and Gaza. The suicide bombing phenomenon has appeared with all its hideous damage, none more lurid and apocalyptic of course than the events of September 11 2001 and their aftermath in the wars against Afghanistan and Iraq. As I write these lines, the illegal occupation of Iraq by Britain and the United States proceeds. Its aftermath is truly awful to contemplate. This is all part of what is supposed to be a clash of civilisations, unending, implacable, irremediable. Nevertheless, I think not.
+>
+> I wish I could say that general understanding of the Middle East, the Arabs and Islam in the US has improved, but alas, it really hasn't. For all kinds of reasons, the situation in Europe seems to be considerably better. What American leaders and their intellectual lackeys seem incapable of understanding is that history cannot be swept clean like a blackboard, so that "we" might inscribe our own future there and impose our own forms of life for these lesser people to follow. It is quite common to hear high officials in Washington and elsewhere speak of changing the map of the Middle East, as if ancient societies and myriad peoples can be shaken up like so many peanuts in a jar. But this has often happened with the "orient", that semi-mythical construct which since Napoleon's invasion of Egypt in the late 18th century has been made and remade countless times. In the process the uncountable sediments of history, a dizzying variety of peoples, languages, experiences, and cultures, are swept aside or ignored, relegated to the sandheap along with the treasures ground into meaningless fragments that were taken out of Baghdad.
+>
+> [...]
+>
+> The major influences on George W Bush's Pentagon and National Security Council were men such as Bernard Lewis and Fouad Ajami, experts on the Arab and Islamic world who helped the American hawks to think about such preposterous phenomena as the Arab mind and the centuries-old Islamic decline which only American power could reverse. Today bookstores in the US are filled with shabby screeds bearing screaming headlines about Islam and terror, the Arab threat and the Muslim menace, all of them written by political polemicists pretending to knowledge imparted by experts who have supposedly penetrated to the heart of these strange oriental peoples. CNN and Fox, plus myriad evangelical and rightwing radio hosts, innumerable tabloids and even middle-brow journals, have recycled the same unverifiable fictions and vast generalisations so as to stir up "America" against the foreign devil.
+>
+> [...]
+>
+> Think of the line that starts with Napoleon, continues with the rise of oriental studies and the takeover of North Africa, and goes on in similar undertakings in Vietnam, in Egypt, in Palestine and, during the entire 20th century, in the struggle over oil and strategic control in the Gulf, in Iraq, Syria, Palestine, and Afghanistan. Then think of the rise of anti-colonial nationalism, through the short period of liberal independence, the era of military coups, of insurgency, civil war, religious fanaticism, irrational struggle and uncompromising brutality against the latest bunch of "natives". Each of these phases and eras produces its own distorted knowledge of the other, each its own reductive images, its own disputatious polemics.
+>
+> My idea in Orientalism was to use humanistic critique to open up the fields of struggle, to introduce a longer sequence of thought and analysis to replace the short bursts of polemical, thought-stopping fury that so imprison us. I have called what I try to do "humanism", a word I continue to use stubbornly despite the scornful dismissal of the term by sophisticated postmodern critics. By humanism I mean first of all attempting to dissolve Blake's "mind-forg'd manacles" so as to be able to use one's mind historically and rationally for the purposes of reflective understanding. Moreover humanism is sustained by a sense of community with other interpreters and other societies and periods: strictly speaking therefore, there is no such thing as an isolated humanist.
+>
+> [...]
+>
+> Speaking both as an American and as an Arab I must ask my reader not to underestimate the kind of simplified view of the world that a relative handful of Pentagon civilian elites have formulated for US policy in the entire Arab and Islamic worlds, a view in which terror, pre-emptive war, and unilateral regime change - backed up by the most bloated military budget in history - are the main ideas debated endlessly and impoverishingly by a media that assigns itself the role of producing so-called "experts" who validate the government's general line. Reflection, debate, rational argument and moral principle based on a secular notion that human beings must create their own history have been replaced by abstract ideas that celebrate American or western exceptionalism, denigrate the relevance of context, and regard other cultures with contempt.
+>
+> [...]
+>
+> The terrible conflicts that herd people under falsely unifying rubrics such as "America," "the west" or "Islam" and invent collective identities for large numbers of individuals who are actually quite diverse, cannot remain as potent as they are, and must be opposed. We still have at our disposal the rational interpretive skills that are the legacy of humanistic education, not as a sentimental piety enjoining us to return to traditional values or the classics but as the active practice of worldly secular rational discourse. The secular world is the world of history as made by human beings. Critical thought does not submit to commands to join in the ranks marching against one or another approved enemy. Rather than the manufactured clash of civilisations, we need to concentrate on the slow working together of cultures that overlap, borrow from each other, and live together. But for that kind of wider perception we need time, patient and sceptical inquiry, supported by faith in communities of interpretation that are difficult to sustain in a world demanding instant action and reaction.
+>
+> Humanism is centred upon the agency of human individuality and subjective intuition, rather than on received ideas and authority. Texts have to be read as texts that were produced and live on in all sorts of what I have called worldly ways. But this by no means excludes power, since on the contrary I have tried to show the insinuations, the imbrications of power into even the most recondite of studies. And lastly, most important, humanism is the only, and I would go as far as to say the final resistance we have against the inhuman practices and injustices that disfigure human history.
+
+*I just picked out some paragraphs there were particularly interesting to me, but the whole thing is really interesting so I suggest you [read the intro in its entirety](http://books.guardian.co.uk/review/story/0,12084,1010417,00.html).*
